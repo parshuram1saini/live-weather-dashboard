@@ -1,0 +1,18 @@
+.weather-dashboard-container {
+    padding-top: 25px;
+}
+.search-textarea{
+    width: 350px;
+    margin-right: 10px !important;
+    @media (max-width: 768px){
+        width: fit-content;
+    }
+}
+.search-button{
+    padding: 5px 10px !important;
+    background-color: rgba(25, 118, 210, 0.04) !important;
+}
+
+.weather-card{
+    background-color: rgba(25, 118, 210, 0.04) !important;
+}
